@@ -18,7 +18,7 @@ Site institucional desenvolvido para a Academia Borges com foco em apresentar os
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome
+- Visual Studio Code
 
 ## 🎯 Objetivo do Projeto
 
